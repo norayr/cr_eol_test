@@ -1,6 +1,6 @@
 *.Mod   filter=convert-cr
 *.Text    filter=convert-cr
 #*.Mod text diff eol=cr
-#*.Mod diff eol=cr
+*.Mod diff eol=cr
 #*.Mod    eol=cr
 #text eol=cr
