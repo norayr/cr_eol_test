@@ -1,0 +1,3 @@
+*.Mod    text
+*.Mod    eol=cr
+text eol=cr
