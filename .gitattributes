@@ -1,3 +1,4 @@
-*.Mod    text
+#*.Mod text diff eol=cr
+*.Mod diff eol=cr
 *.Mod    eol=cr
 text eol=cr
